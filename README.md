@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, Joel T Vadakekalam AKA notS0LD13R here!</h1>
-<h4 align="center">Passionate student in web development and data analytics. Adaptable and dedicated, I thrive in both solo and collaborative environments. Constantly learning and exploring new technologies. Committed to excellence and effective communication, I seek to contribute to innovative projects and make a positive impact.</h4>
+<h4 align="center">ME SEE COMPUTER ME CODE . ME SEE BUG ME DEBUG. ME SEE ERROR NOT ON STACKOVERFLOW ME QUIT.</h4>
 
 - 💻 Reading Docs on **React and Node.js**
 
