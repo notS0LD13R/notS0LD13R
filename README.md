@@ -7,7 +7,7 @@
 
 - 👷‍♂️ Currently working on [Mess Management Website](https://github.com/notS0LD13R/Mess-Web-App)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-fWva6YVvrQIyZQVvCTV5i_r22T6g6xX/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12DuzIRRapdd9Gm238embhE4YebhSYhVT/view?usp=sharing)
 
 - ⚡ Fun fact **I code in dark mode to keep the bugs🐛 away.**
 
