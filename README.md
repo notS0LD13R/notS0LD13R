@@ -1,11 +1,11 @@
 <h1 align="center">Hello World, Joel T Vadakekalam AKA notS0LD13R here!</h1>
-<h4 align="center">ME SEE COMPUTER ME CODE . ME SEE BUG ME DEBUG. ME SEE ERROR NOT ON STACKOVERFLOW ME QUIT.</h4>
+<h4 align="center">ME SEE COMPUTER ME CODE . ME SEE BUG ME DEBUG. ME SEE ERROR NOT ON STACKOVERFLOW ME EXIT();.</h4>
 
-- 💻 Reading Docs on **React and Node.js**
+- 💻 Reading Docs on **Nextjs and Expressjs**
 
 - 👨‍🎓 Studying Computer Science Data Science at [MACE](https://www.mace.ac.in/cse-engineering)
 
-- 👷‍♂️ Currently working on [Mess Management Website](https://github.com/notS0LD13R/Mess-Web-App)
+- 👷‍♂️ Currently working on [Auto Mailer](https://github.com/notS0LD13R/express_form2mail)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12DuzIRRapdd9Gm238embhE4YebhSYhVT/view?usp=sharing)
 
