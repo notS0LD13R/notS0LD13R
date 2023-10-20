@@ -5,7 +5,7 @@
 
 - 👨‍🎓 Studying Computer Science Data Science at [MACE](https://www.mace.ac.in/cse-engineering)
 
-- 👷‍♂️ Currently working on [Auto Mailer](https://github.com/notS0LD13R/express_form2mail)
+- 👷‍♂️ Currently working on [Kanban Board](https://github.com/notS0LD13R/kanban-board)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12DuzIRRapdd9Gm238embhE4YebhSYhVT/view?usp=sharing)
 
